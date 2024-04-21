@@ -1,2 +1,2 @@
 The main of the project contains Scanner to take user input, Three product objects are created, The program enters the details:ID,name,Address,number of products, for loop to know the number of items the user wants to add(smartphone,T-shirt,OOP), A switch statement check the choices 1,2,3 is added to the cart using the 'cart.addProduct'Any other value of choice leads to an "Unavailable option".and the main also containing Calculating total cart price method, and display the order information at the end.
-
+class product contains private productId,name,price (private) to ensure it can only be accessed directly within the Product class. and a constructor to take 3 arguments. and includes getters and setters methods
