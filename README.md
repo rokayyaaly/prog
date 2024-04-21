@@ -1,1 +1,2 @@
-main of the project:
+The main of the project contains Scanner to take user input, Three product objects are created, The program enters the details:ID,name,Address,number of products, for loop to know the number of items the user wants to add(smartphone,T-shirt,OOP), A switch statement check the choices 1,2,3 is added to the cart using the 'cart.addProduct'Any other value of choice leads to an "Unavailable option".and the main also containing Calculating total cart price method, and display the order information at the end.
+
